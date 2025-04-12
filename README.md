@@ -20,7 +20,7 @@ I'm currently expanding my knowledge in advanced AI techniques while applying my
 ## 🤝 Let's Connect
 I'm always eager to collaborate on challenging projects or discuss innovative ideas!
 
-🧑‍💻 Website: [ericcui.me](ericcui.me)
+🧑‍💻 Website: [ericcui.me](https://ericcui.me)
 
 ✉️ Email: ericcui@stanford.edu
 
