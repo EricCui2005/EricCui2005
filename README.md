@@ -1,7 +1,7 @@
 # Hi there, I'm Eric Cui 👋
 
 ## About Me
-I'm an undergraduate Computer Science student at Stanford University specializing in Artificial Intelligence. My passion lies at the intersection of deep learning, full-stack development, and cutting-edge AI research. I thrive on creating innovative solutions to complex problems and am constantly exploring new technologies.
+I'm an undergraduate Computer Science student at Stanford University specializing in Artificial Intelligence. My passion lies at the intersection of deep learning, full-stack development, and cutting-edge AI research. I thrive on creating innovative solutions to complex problems and am constantly exploring new technologies!
 
 ## 🔭 What I Do
 - Develop scalable web applications with modern frameworks
@@ -10,7 +10,7 @@ I'm an undergraduate Computer Science student at Stanford University specializin
 - Research applications of AI in real-world scenarios
 
 ## 🌱 Current Focus
-I'm currently expanding my knowledge in advanced AI techniques while applying my skills to meaningful projects that make an impact.
+I'm currently expanding my knowledge in advanced AI techniques while applying my skills to meaningful projects!
 
 <a href="https://github.com/EricCui2005">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EricCui2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -20,6 +20,8 @@ I'm currently expanding my knowledge in advanced AI techniques while applying my
 ## 🤝 Let's Connect
 I'm always eager to collaborate on challenging projects or discuss innovative ideas!
 
-📫 Reach me at: ericcui@stanford.edu
+🧑‍💻 Website: [ericcui.me](ericcui.me)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/ericcui](https://www.linkedin.com/in/eric-cui-003154233/))
+✉️ Email: ericcui@stanford.edu
+
+🟦 LinkedIn: [Eric Cui](https://www.linkedin.com/in/eric-cui-003154233/)
