@@ -12,30 +12,14 @@ I'm an undergraduate Computer Science student at Stanford University specializin
 ## 🌱 Current Focus
 I'm currently expanding my knowledge in advanced AI techniques while applying my skills to meaningful projects that make an impact.
 
-## 📊 GitHub Stats
-![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericcui&show_icons=true&theme=radical)
-
-## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ericcui&layout=compact&theme=radical)
+<a href="https://github.com/EricCui2005">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EricCui2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EricCui2005&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
 
 ## 🤝 Let's Connect
 I'm always eager to collaborate on challenging projects or discuss innovative ideas!
 
 📫 Reach me at: ericcui@stanford.edu
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ericcui)
-
-<!--
-**EricCui2005/EricCui2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/ericcui](https://www.linkedin.com/in/eric-cui-003154233/))
