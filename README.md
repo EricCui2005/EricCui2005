@@ -5,9 +5,9 @@ I'm an undergraduate Computer Science student at Stanford University specializin
 
 ## 🔭 What I Do
 - Develop scalable web applications with modern frameworks
+- Research applications of AI in real-world scenarios
 - Build NLP integrations for enhanced user experiences
 - Design and manage robust API services
-- Research applications of AI in real-world scenarios
 
 ## 🌱 Current Focus
 I'm currently expanding my knowledge in advanced AI techniques while applying my skills to meaningful projects!
