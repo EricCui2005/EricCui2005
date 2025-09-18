@@ -1,16 +1,16 @@
 # Hi there, I'm Eric Cui 👋
 
 ## About Me
-I'm an undergraduate Computer Science student at Stanford University specializing in Artificial Intelligence. My passion lies at the intersection of deep learning, full-stack development, and cutting-edge AI research. I thrive on creating innovative solutions to complex problems and am constantly exploring new technologies!
+I'm an undergraduate CS + EE student at Stanford University specializing in Artificial Intelligence and Hardware & Software. My passion lies at the intersection of deep learning, full-stack development, and cutting-edge AI research. I thrive on creating innovative solutions to complex problems and am constantly exploring new technologies!
 
 ## 🔭 What I Do
 - Develop scalable web applications with modern frameworks
 - Research applications of AI in real-world scenarios
-- Build NLP integrations for enhanced user experiences
-- Design and manage robust API services
+- Build secure and resilient infrastructure at scale
+- Design and manage robust API services and user experiences
 
 ## 🌱 Current Focus
-I'm currently expanding my knowledge in advanced AI techniques while applying my skills to meaningful projects!
+I'm currently expanding my knowledge in advanced AI techniques and exploring Web3!
 
 <a href="https://github.com/EricCui2005">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EricCui2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
